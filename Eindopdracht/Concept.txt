@@ -1,0 +1,19 @@
+Het was erg lastig om een concept te bedenken die uitdagend genoeg is om te maken en natuurlijk haalbaar is.
+
+Zo kwam ik op het idee om een spel te maken. Ik dacht meteen aan een klik spel met kaarten. Toen kwam ik met het idee om een gokkast te maken met javascript.
+
+Bedoeling is simpel. Je hebt de speler en de dealer. Als de speler 3 soorten fruiten naast elkaar goed heeft dan wint hij. Zo niet, dan verliest hij geld.
+
+Ik wil het niet simpel houden, zo kan de speler verschillende fruitcombinaties draaien met verschillende prijzen. 
+
+Ik wil ook een soort portomonee maken voor de speler, zodat hij niet kan spelen als hij blut is. Ook de gokkast kan blut worden.
+
+Een extra mogelijkheid is om zelf je inzet te kunnen bepalen of speciale win combinaties tijdens het spelen. Bijvoorbeeld een joker.
+
+GAME:
+- Dealer
+- Speler
+- Bank
+
+Totaal:
+- Gokkast
